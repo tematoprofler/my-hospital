@@ -1,0 +1,20 @@
+<by.grsu.liudkevich.table.NurseTable>
+  <rows>
+    <by.grsu.liudkevich.datamodel.Nurse>
+      <id>300454717708124</id>
+      <name>Aghata Kristie</name>
+    </by.grsu.liudkevich.datamodel.Nurse>
+    <by.grsu.liudkevich.datamodel.Nurse>
+      <id>300454721616265</id>
+      <name>Aghata Kristie</name>
+    </by.grsu.liudkevich.datamodel.Nurse>
+    <by.grsu.liudkevich.datamodel.Nurse>
+      <id>45123764526427</id>
+      <name>Aghata Kristie</name>
+    </by.grsu.liudkevich.datamodel.Nurse>
+    <by.grsu.liudkevich.datamodel.Nurse>
+      <id>45123805011141</id>
+      <name>Aghata Kristie</name>
+    </by.grsu.liudkevich.datamodel.Nurse>
+  </rows>
+</by.grsu.liudkevich.table.NurseTable>

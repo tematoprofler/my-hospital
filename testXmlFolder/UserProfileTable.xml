@@ -1,0 +1,52 @@
+<by.grsu.liudkevich.table.UserProfileTable>
+  <rows>
+    <by.grsu.liudkevich.datamodel.UserProfile>
+      <id>300478022173215</id>
+      <credentials>
+        <id>300478022173215</id>
+        <email>admin</email>
+        <password>admin</password>
+        <role>admin</role>
+      </credentials>
+      <firstName>user1</firstName>
+      <lastName>user1</lastName>
+      <created>2018-05-17 05:54:29.288 UTC</created>
+    </by.grsu.liudkevich.datamodel.UserProfile>
+    <by.grsu.liudkevich.datamodel.UserProfile>
+      <id>300478022173215</id>
+      <credentials>
+        <id>300478022173215</id>
+        <email>admin</email>
+        <password>admin</password>
+        <role>admin</role>
+      </credentials>
+      <firstName>user1</firstName>
+      <lastName>user1</lastName>
+      <created>2018-05-17 05:54:29.535 UTC</created>
+    </by.grsu.liudkevich.datamodel.UserProfile>
+    <by.grsu.liudkevich.datamodel.UserProfile>
+      <id>300478022173215</id>
+      <credentials>
+        <id>300478022173215</id>
+        <email>admin</email>
+        <password>admin</password>
+        <role>admin</role>
+      </credentials>
+      <firstName>user1</firstName>
+      <lastName>user1</lastName>
+      <created>2018-06-04 07:23:13.131 UTC</created>
+    </by.grsu.liudkevich.datamodel.UserProfile>
+    <by.grsu.liudkevich.datamodel.UserProfile>
+      <id>300478022173215</id>
+      <credentials>
+        <id>300478022173215</id>
+        <email>admin</email>
+        <password>admin</password>
+        <role>admin</role>
+      </credentials>
+      <firstName>user1</firstName>
+      <lastName>user1</lastName>
+      <created>2018-06-04 07:23:13.225 UTC</created>
+    </by.grsu.liudkevich.datamodel.UserProfile>
+  </rows>
+</by.grsu.liudkevich.table.UserProfileTable>

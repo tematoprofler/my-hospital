@@ -1,0 +1,60 @@
+<by.grsu.liudkevich.table.PatientTable>
+  <rows>
+    <by.grsu.liudkevich.datamodel.Patient>
+      <id>300465954519485</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.liudkevich.datamodel.Patient>
+    <by.grsu.liudkevich.datamodel.Patient>
+      <id>300465998729501</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.liudkevich.datamodel.Patient>
+    <by.grsu.liudkevich.datamodel.Patient>
+      <id>301684626009856</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.liudkevich.datamodel.Patient>
+    <by.grsu.liudkevich.datamodel.Patient>
+      <id>301684701008188</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.liudkevich.datamodel.Patient>
+    <by.grsu.liudkevich.datamodel.Patient>
+      <id>45145331950933</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.liudkevich.datamodel.Patient>
+    <by.grsu.liudkevich.datamodel.Patient>
+      <id>45145585366406</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.liudkevich.datamodel.Patient>
+    <by.grsu.liudkevich.datamodel.Patient>
+      <id>46043981966411</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.liudkevich.datamodel.Patient>
+    <by.grsu.liudkevich.datamodel.Patient>
+      <id>46044050573164</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.liudkevich.datamodel.Patient>
+  </rows>
+</by.grsu.liudkevich.table.PatientTable>

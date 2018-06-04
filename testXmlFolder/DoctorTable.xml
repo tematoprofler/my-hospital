@@ -1,0 +1,32 @@
+<by.grsu.liudkevich.table.DoctorTable>
+  <rows>
+    <by.grsu.liudkevich.datamodel.Doctor>
+      <id>300068654022404</id>
+      <name>Michael Johns</name>
+    </by.grsu.liudkevich.datamodel.Doctor>
+    <by.grsu.liudkevich.datamodel.Doctor>
+      <id>300192888069115</id>
+      <name>Michael Johns</name>
+    </by.grsu.liudkevich.datamodel.Doctor>
+    <by.grsu.liudkevich.datamodel.Doctor>
+      <id>300193140326592</id>
+      <name>Michael Johns</name>
+    </by.grsu.liudkevich.datamodel.Doctor>
+    <by.grsu.liudkevich.datamodel.Doctor>
+      <id>4145795034229</id>
+      <name>Michael Johns</name>
+    </by.grsu.liudkevich.datamodel.Doctor>
+    <by.grsu.liudkevich.datamodel.Doctor>
+      <id>45062656787112</id>
+      <name>Michael Johns</name>
+    </by.grsu.liudkevich.datamodel.Doctor>
+    <by.grsu.liudkevich.datamodel.Doctor>
+      <id>45089585926928</id>
+      <name>Michael Johns</name>
+    </by.grsu.liudkevich.datamodel.Doctor>
+    <by.grsu.liudkevich.datamodel.Doctor>
+      <id>45089830203437</id>
+      <name>Michael Johns</name>
+    </by.grsu.liudkevich.datamodel.Doctor>
+  </rows>
+</by.grsu.liudkevich.table.DoctorTable>
